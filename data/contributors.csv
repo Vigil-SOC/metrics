@@ -1,9 +1,9 @@
 login,account_type,is_bot,commits,additions,deletions,first_week,last_week
-claude,User,true,1327,796814,610216,2026-03-08,2026-11-15
-samarmstrong,User,false,1111,463907,416895,2026-08-02,2026-11-15
+claude,User,true,1341,801352,611047,2026-03-08,2026-11-15
+samarmstrong,User,false,1122,467640,417639,2026-08-02,2026-11-15
 cursoragent,User,true,555,377514,246164,2026-06-28,2026-11-15
 G-r-ay,User,false,548,208471,72856,2026-06-07,2026-11-15
-craig-dt,User,false,228,327818,193793,2026-06-21,2026-11-15
+craig-dt,User,false,231,328623,193880,2026-06-21,2026-11-15
 nestor-deeptempo,User,false,135,341608,255089,2026-05-17,2026-11-01
 mando222,User,false,135,207162,22217,2026-03-08,2026-06-07
 ShmalexM,User,false,89,19878,2719,2026-06-21,2026-11-01
@@ -11,7 +11,7 @@ johnvanlowe,User,false,47,6933,3451,2026-05-17,2026-11-15
 dependabot[bot],Bot,true,44,2849,2975,2026-08-09,2026-11-15
 CryptoJones,User,false,39,6636,2687,2026-05-17,2026-10-04
 mattmorr1,User,false,37,262169,259498,2026-03-29,2026-08-30
-vigil-release-please[bot],Bot,true,29,1268,243,2026-05-24,2026-11-15
+vigil-release-please[bot],Bot,true,30,1477,255,2026-05-24,2026-11-15
 epowell101,User,false,19,1791,170,2026-03-15,2026-11-15
 krmayankb,User,false,11,25915,19456,2026-03-15,2026-10-11
 joshuacox,User,false,10,15415,550,2026-08-16,2026-10-18
