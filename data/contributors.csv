@@ -1,9 +1,9 @@
 login,account_type,is_bot,commits,additions,deletions,first_week,last_week
-claude,User,true,1267,779658,607657,2026-03-08,2026-11-15
-samarmstrong,User,false,1089,455742,416195,2026-08-02,2026-11-15
+claude,User,true,1311,790853,609686,2026-03-08,2026-11-15
+samarmstrong,User,false,1096,458233,416365,2026-08-02,2026-11-15
 cursoragent,User,true,555,377514,246164,2026-06-28,2026-11-15
-G-r-ay,User,false,503,203989,71134,2026-06-07,2026-11-15
-craig-dt,User,false,203,321863,192171,2026-06-21,2026-11-15
+G-r-ay,User,false,548,208471,72856,2026-06-07,2026-11-15
+craig-dt,User,false,227,327531,193793,2026-06-21,2026-11-15
 nestor-deeptempo,User,false,135,341608,255089,2026-05-17,2026-11-01
 mando222,User,false,135,207162,22217,2026-03-08,2026-06-07
 ShmalexM,User,false,89,19878,2719,2026-06-21,2026-11-01
@@ -11,10 +11,11 @@ johnvanlowe,User,false,47,6933,3451,2026-05-17,2026-11-15
 dependabot[bot],Bot,true,44,2849,2975,2026-08-09,2026-11-15
 CryptoJones,User,false,39,6636,2687,2026-05-17,2026-10-04
 mattmorr1,User,false,37,262169,259498,2026-03-29,2026-08-30
-vigil-release-please[bot],Bot,true,25,1264,239,2026-05-24,2026-11-08
+vigil-release-please[bot],Bot,true,29,1268,243,2026-05-24,2026-11-15
 epowell101,User,false,19,1791,170,2026-03-15,2026-11-15
 krmayankb,User,false,11,25915,19456,2026-03-15,2026-10-11
 joshuacox,User,false,10,15415,550,2026-08-16,2026-10-18
+github-actions[bot],Bot,true,6,6,5,2026-11-01,2026-11-15
 johnvanlowe-deeptempo,User,false,6,582,493,2026-10-04,2026-11-15
 thetosy,User,false,4,163019,158666,2026-08-02,2026-08-16
 jmurph1,User,false,3,50,16,2026-08-02,2026-08-16
@@ -23,7 +24,6 @@ jamessmoore,User,false,2,9,5,2026-06-21,2026-07-12
 AmirF194,User,false,2,159,125,2026-08-23,2026-09-27
 shapor,User,false,2,115,87,2026-03-22,2026-03-29
 NestorJMartinez,User,false,2,130,118,2026-10-11,2026-10-11
-github-actions[bot],Bot,true,2,2,1,2026-11-01,2026-11-08
 mvanhorn,User,false,1,88,4,2026-09-27,2026-09-27
 tonydzi,User,false,1,49,2,2026-10-18,2026-10-18
 Aditya-MotorQ,User,false,1,151,16,2026-10-18,2026-10-18
