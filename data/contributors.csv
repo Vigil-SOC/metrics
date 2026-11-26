@@ -1,8 +1,8 @@
 login,account_type,is_bot,commits,additions,deletions,first_week,last_week
-claude,User,true,1449,831010,615755,2026-03-08,2026-11-22
-samarmstrong,User,false,1225,495994,421870,2026-08-02,2026-11-22
+claude,User,true,1460,834617,616172,2026-03-08,2026-11-22
+samarmstrong,User,false,1236,499601,422287,2026-08-02,2026-11-22
 cursoragent,User,true,619,407389,247947,2026-06-28,2026-11-22
-G-r-ay,User,false,566,213468,73147,2026-06-07,2026-11-22
+G-r-ay,User,false,567,213991,73149,2026-06-07,2026-11-22
 craig-dt,User,false,295,358498,195663,2026-06-21,2026-11-22
 nestor-deeptempo,User,false,139,342676,255538,2026-05-17,2026-11-15
 mando222,User,false,135,207162,22217,2026-03-08,2026-06-07
