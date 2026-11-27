@@ -1,8 +1,8 @@
 login,account_type,is_bot,commits,additions,deletions,first_week,last_week
-claude,User,true,1460,834617,616172,2026-03-08,2026-11-22
-samarmstrong,User,false,1236,499601,422287,2026-08-02,2026-11-22
+claude,User,true,1488,843364,616963,2026-03-08,2026-11-22
+samarmstrong,User,false,1261,507358,423050,2026-08-02,2026-11-22
 cursoragent,User,true,619,407389,247947,2026-06-28,2026-11-22
-G-r-ay,User,false,567,213991,73149,2026-06-07,2026-11-22
+G-r-ay,User,false,571,215334,73182,2026-06-07,2026-11-22
 craig-dt,User,false,295,358498,195663,2026-06-21,2026-11-22
 nestor-deeptempo,User,false,139,342676,255538,2026-05-17,2026-11-15
 mando222,User,false,135,207162,22217,2026-03-08,2026-06-07
@@ -12,7 +12,7 @@ dependabot[bot],Bot,true,45,3131,3243,2026-08-09,2026-11-22
 CryptoJones,User,false,39,6636,2687,2026-05-17,2026-10-04
 mattmorr1,User,false,37,262169,259498,2026-03-29,2026-08-30
 vigil-release-please[bot],Bot,true,34,1522,270,2026-05-24,2026-11-22
-epowell101,User,false,19,1791,170,2026-03-15,2026-11-15
+epowell101,User,false,21,1828,198,2026-03-15,2026-11-22
 krmayankb,User,false,11,25915,19456,2026-03-15,2026-10-11
 joshuacox,User,false,10,15415,550,2026-08-16,2026-10-18
 github-actions[bot],Bot,true,9,9,8,2026-11-01,2026-11-22
