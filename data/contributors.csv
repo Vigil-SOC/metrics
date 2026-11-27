@@ -1,6 +1,6 @@
 login,account_type,is_bot,commits,additions,deletions,first_week,last_week
-claude,User,true,1488,843364,616963,2026-03-08,2026-11-22
-samarmstrong,User,false,1261,507358,423050,2026-08-02,2026-11-22
+claude,User,true,1504,849686,618391,2026-03-08,2026-11-22
+samarmstrong,User,false,1277,513680,424478,2026-08-02,2026-11-22
 cursoragent,User,true,619,407389,247947,2026-06-28,2026-11-22
 G-r-ay,User,false,571,215334,73182,2026-06-07,2026-11-22
 craig-dt,User,false,295,358498,195663,2026-06-21,2026-11-22
